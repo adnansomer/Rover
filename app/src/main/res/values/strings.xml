@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rover</string>
+    <string name="select">Select</string>
+    <string name="filter">Filter</string>
+    <string name="date">Date</string>
+    <string name="camera">Camera</string>
+    <string name="close">Close</string>
+    <string name="earth_date">Earth Date</string>
+    <string name="change">Change</string>
+    <string name="name">Name</string>
+    <string name="select_a_rover">Select a Rover</string>
+    <string name="no_filter">No Filter</string>
+    <string name="launch_date">Launch Date</string>
+    <string name="landing_date">Landing date</string>
+    <string name="status">Status</string>
+    <string name="no_image_found">No Image Found</string>
+</resources>
